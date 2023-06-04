@@ -11,10 +11,7 @@ jobs:
     steps:
     # key value pairs so need a dash
       - name: Print greeting
-        run: |
-           echo "First output"
-           echo "Second output"
-           echo "Hello World!"
+        run: echo "Hello World!"
         # this will be a command line
       - name: Print goodbye
         run: echo "Goodbye and done!"
