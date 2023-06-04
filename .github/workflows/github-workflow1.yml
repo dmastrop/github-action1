@@ -12,9 +12,9 @@ jobs:
     # key value pairs so need a dash
       - name: Print greeting
         run: | 
-        echo "Hello World!"
-        echo "line1"
-        echo "line2"
+          echo "Hello World!"
+          echo "line1"
+          echo "line2"
         # this will be a command line
       - name: Print goodbye
         run: echo "Goodbye and done!"
