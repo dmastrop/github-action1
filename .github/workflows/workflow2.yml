@@ -4,7 +4,7 @@ name: workflow2
 on: workflow_dispatch
 # work to be done is in jobs
 jobs:
-  my-first-job-name:
+  my-second-job-name:
     #define the runner where the steps will be executed
     runs-on: ubuntu-latest
     # see github actions runners 
