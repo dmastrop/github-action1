@@ -1,4 +1,4 @@
-name: workflow1
+name: workflow2
 # when this workflow will be triggered. These are events
 # workflow_dispatch let's us manually start this workflow.
 on: workflow_dispatch
